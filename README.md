@@ -1,5 +1,4 @@
-# Ocr Documents Scanner
-![webpage](/static/webpage.png?raw=True "Title") 
+
 
 Flask application to extract details from Aadhar card, Bank Cheque, Pan card, Driving Licence and also detected the face in document and store it in face folder.
 just upload the document in jpg or png format and extract the details 
@@ -92,9 +91,5 @@ you will be redirected to home page where you can upload the document images. an
 and extract the text data. it can also detect the faces in document and store it in face folder
 Enjoy!
 
-## Note:
-- only jpg png format are supported 
-- all the files are stored to upload folder 
-- detected face stored in face folder 
-- logs files generated daily 
+
 
